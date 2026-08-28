@@ -1,5 +1,5 @@
-Repositorio GitHub del proyecto:
-https://github.com/jhermeyek/CIVITRACK.git
+Repositorio GitHub del proyecto: CIVITRACK-AA5-EV01
+https://github.com/jhermeyek/CIVITRACK-AA5-EV01.git
 
 Carpeta correspondiente a la evidencia:
 JAVIER_ASCANIO_AA5_EV01
