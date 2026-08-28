@@ -1,0 +1,14 @@
+{
+  "name": "civitrack-api-auth",
+  "version": "1.0.0",
+  "description": "Servicio web de registro e inicio de sesión para la evidencia GA7-220501096-AA5-EV01.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "bcryptjs": "^3.0.2",
+    "express": "^5.1.0"
+  }
+}
